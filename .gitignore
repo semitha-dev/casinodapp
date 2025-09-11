@@ -3,5 +3,5 @@ trash.*
 node_modules
 dist
 dev-dist
-.env
 package-lock.json
+config.bat
